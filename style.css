@@ -1,8 +1,11 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Rubik:wght@400;700&display=swap');
+
 /* Global Styles */
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
+  font-family: Lato, sans-serif;
   background-color: #ffffff;
   color: #333;
   line-height: 1.6;
@@ -25,6 +28,7 @@ body {
 .hero h1 {
   margin: 20px 0 10px;
   color: #16213e;
+  font-family: Rubik, sans-serif;
   font-size: 3.5em; /* Increased font size using em */
 }
 
@@ -69,6 +73,7 @@ body {
   margin-top: 0;
   margin-bottom: 20px;
   color: #0f3460;
+  font-family: Rubik, sans-serif;
   font-size: 32px; /* Increased font size */
 }
 
@@ -103,6 +108,7 @@ strong {
 .features h2 {
   margin-bottom: 20px;
   color: #1a1a2e;
+  font-family: Rubik, sans-serif;
   font-size: 32px; /* Increased font size */
 }
 
